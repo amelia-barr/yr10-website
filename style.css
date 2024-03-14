@@ -2,26 +2,37 @@ body {
  background-color: black;   
 }
 h1 {
-color:white;
-font-size: 40px;
-font-family:'Times New Roman', Times, serif;
+    color:white;
+    font-size: 40px;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
 }
 h3 {
     color:white;
     font-size: 22px;
     font-family:'Times New Roman', Times, serif;
+    text-align: center;
     }
 h4 {
     color:white;
     font-size: 20px;
     font-family:'Times New Roman', Times, serif;
+    text-align: center;
     }
 p {
-color:white;
-font-size: 15px;
-font-family:'Times New Roman', Times, serif;
+    color:white;
+    font-size: 15px;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
 }
+
 img {
-    border-color: white;
-    border: solid 10px;
+    float: center;
+}
+
+a {
+    color: white;
+    font-size: 15px;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
 }
